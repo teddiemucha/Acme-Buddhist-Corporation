@@ -2,14 +2,19 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Incense Bowls</title>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
 <h1>Acme Buddhist Corporation</h1>
-<h2>Products: Incense Bowls</h2>
-<h2><img src="../images/incense-bowls.jpg" width="500" height="500" alt="incense-bowls" /></h2>
-<p>[about product paragraph]</p><!-- #BeginLibraryItem "/Library/index-navigation.lbi" -->
+<h2>Products: </h2>
+<p>[image]</p>
+<p>[product description]</p>
+<!-- #BeginLibraryItem "/Library/index-navigation.lbi" -->
 <h3>Navigation</h3>
 <ul>
   <li><a href="../index.html">Home Page</a></li>
@@ -31,5 +36,8 @@
   <li><a href="malas.html">Malas</a></li>
   <li><a href="zafus-and-zabutons.html">Zafus &amp; Zabutos</a></li>
   <li><a href="meditation-benches.html">Meditation Benches</a></li>
-  <li><a href="incense-bowls.html">Incense Bowls</a></li></ul><!-- #EndLibraryItem --></body>
+  <li><a href="incense-bowls.html">Incense Bowls</a></li>
+</ul>
+<!-- #EndLibraryItem -->
+</body>
 </html>
